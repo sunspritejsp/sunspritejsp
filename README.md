@@ -9,7 +9,7 @@ i enjoy extracting insights from data, building pipelines, and solving complex p
 ---
 ### stacks
 
-*   **languages:** python, sql, c#, java
+*   **languages:** python, sql, c#, java, rust
 *   **web & frameworks:** flask, html, css
 *   **tools & platforms:** linux, git, github, docker
 ---
